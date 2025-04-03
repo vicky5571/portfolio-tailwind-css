@@ -1804,6 +1804,18 @@
   .ps-4 {
     padding-inline-start: calc(var(--spacing) * 4);
   }
+  .ps-12 {
+    padding-inline-start: calc(var(--spacing) * 12);
+  }
+  .ps-18 {
+    padding-inline-start: calc(var(--spacing) * 18);
+  }
+  .ps-32 {
+    padding-inline-start: calc(var(--spacing) * 32);
+  }
+  .ps-52 {
+    padding-inline-start: calc(var(--spacing) * 52);
+  }
   .pt-4 {
     padding-top: calc(var(--spacing) * 4);
   }
